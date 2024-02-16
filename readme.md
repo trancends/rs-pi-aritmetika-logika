@@ -1,5 +1,5 @@
-Enigma Batch 16 Online
-Nama: Benedictus Jullian Pradana
+- Enigma Batch 16 Online
+- Nama: Benedictus Jullian Pradana
 
 ## Soal NO 1
 
